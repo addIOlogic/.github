@@ -12,6 +12,7 @@
   as well as other great ideas yet to come.
 </pre>
 
-- Disclaimer: Ken social platform source code will remain private 🔒, 
-although automation tools that enable better software development
-experience will be made open-source for anyone to use 🤖.
+<details><summary>Disclaimer: </summary>
+ - Ken social platform source code will remain private 🔒, although automation tools that enable better software development experience will be made 
+  open-source for anyone to use 🤖.
+</details>
