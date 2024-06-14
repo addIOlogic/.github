@@ -7,15 +7,6 @@
                                    /____/                 
 
 💡 addIOlogic is a platform where logic
-  meets creativity. addIOlogic is the home
-  and organization for the Ken social platform,
-  as well as other great ideas yet to come.
+  meets creativity.
 </pre>
 
-***
-
-<details><summary>Disclaimer: </summary>
-  
- - Ken social platform source code will remain private 🔒, although automation tools that enable better software development experience will 
-   be made open-source for anyone to use 🤖.
-</details>
